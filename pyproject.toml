@@ -12,6 +12,7 @@ python = "^3.11"
 sh = "^2.0.6"
 click = "^8.1.7"
 dataclass-binder = "^0.3.4"
+logging4 = "^0.0.2"
 
 [tool.poetry.scripts]
 pygenpp = "pygenpp.cli:cli"

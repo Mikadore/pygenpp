@@ -37,6 +37,17 @@ files = [
 ]
 
 [[package]]
+name = "logging4"
+version = "0.0.2"
+description = "A tiny logging tool"
+optional = false
+python-versions = ">=3.5"
+files = [
+    {file = "logging4-0.0.2-py3-none-any.whl", hash = "sha256:f04f3c340ebb5517876f13bfa3c75ba495e9e473d1d344c19372e75f5598664d"},
+    {file = "logging4-0.0.2.tar.gz", hash = "sha256:123428fbf5bbe686a56e1ba9d841cec83144d8e1c27a43fbdfb2f879ed685976"},
+]
+
+[[package]]
 name = "sh"
 version = "2.0.6"
 description = "Python subprocess replacement"
@@ -50,4 +61,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "121aeeef811a8df20163d808d09bd9368fedeade4461ecedbdc8c4de2bde8413"
+content-hash = "be55b9d460d6bca1969ce77f6b08e645592e381b77d1b72bb18fe6bc8b4a7c38"
